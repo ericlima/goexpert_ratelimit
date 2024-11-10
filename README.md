@@ -34,3 +34,8 @@ Documentação explicando como o rate limiter funciona e como ele pode ser confi
 Testes automatizados demonstrando a eficácia e a robustez do rate limiter.
 Utilize docker/docker-compose para que possamos realizar os testes de sua aplicação.
 O servidor web deve responder na porta 8080.
+
+
+
+Eric George Vasconcelos de Lima
+Novembro de 2024
